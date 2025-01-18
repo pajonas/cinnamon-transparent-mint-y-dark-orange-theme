@@ -1,4 +1,4 @@
-# Linux Mint - Cinnamon theme JoSol-Xia-Transparency-Dark-Orange
+# Linux Mint - Cinnamon theme<br/>JoSol-Xia-Transparency-Dark-Orange
 Based upon Mint-Y-Dark-Orange theme. 
 
 ## Changes
